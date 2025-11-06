@@ -1,4 +1,4 @@
-# BANK_CUSTOMER CHURN ANALYSIS
+# BANK_CUSTOMER_CHURN_ANALYSIS
 
 **CUSTOMER CHURN ANALYSIS**
 
@@ -98,10 +98,19 @@ Approximately 75,000 is the average balance per customer. Higher balance custome
 - Improve customer service by addressing problems for customers and providing specific services to boost satisfaction.
   
 - Reduce customer churn through setting up loyalty schemes and rewards for loyal consumers.
-  
+
 - Engage with clients on a regular basis across a variety of platforms, providing tailored offers and relevant updates.
  
 - Gather consumer input, act upon it, and resolve issues to improve general satisfaction.
   
 - Motivate customers to participate actively in banking activities, provide special bonuses, and tailor services according to their 
   usage patterns.
+
+
+<img width="913" height="515" alt="Bank Cutomer Churn 1" src="https://github.com/user-attachments/assets/1c97cb5a-cfe3-4304-a9ee-418ef34a9232" />
+
+
+
+<img width="1033" height="569" alt="Bank Cutomer Churn 2" src="https://github.com/user-attachments/assets/70c3a776-3295-45e8-8c69-eee87f9ba033" />
+
+
